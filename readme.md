@@ -1,4 +1,4 @@
-# Library: Kafka Consumer
+# Library: Kafka Producer
 ## Overview   
   
 A Java library that creates dummy smart meter readings every 15 seconds for 20 different meters.
